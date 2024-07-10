@@ -1,2 +1,2 @@
-# michcodeAutomaton
-barcode printing project. first task at Micheiln
+# Barcode generation
+barcode printing project
